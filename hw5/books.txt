@@ -1,0 +1,5 @@
+Orwell George; 1984; 1949
+Rowling J.K.; Harry Potter and the Philosopher's Stone; 1997
+Tolkien J.R.R.; The Hobbit; 1937
+Orwell George; Animal Farm; 1945
+Rowling J.K.; Harry Potter and the Chamber of Secrets; 1998
